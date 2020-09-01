@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/store-manager-2/static/css/main.36497136.chunk.css",
+    "main.js": "/store-manager-2/static/js/main.64a0abde.chunk.js",
+    "main.js.map": "/store-manager-2/static/js/main.64a0abde.chunk.js.map",
+    "runtime-main.js": "/store-manager-2/static/js/runtime-main.36bc1d49.js",
+    "runtime-main.js.map": "/store-manager-2/static/js/runtime-main.36bc1d49.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/store-manager-2/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.78eab865.chunk.js": "/store-manager-2/static/js/2.78eab865.chunk.js",
+    "static/js/2.78eab865.chunk.js.map": "/store-manager-2/static/js/2.78eab865.chunk.js.map",
+    "index.html": "/store-manager-2/index.html",
+    "precache-manifest.7dea5451aeabcce80059bd64b09b1321.js": "/store-manager-2/precache-manifest.7dea5451aeabcce80059bd64b09b1321.js",
+    "service-worker.js": "/store-manager-2/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/store-manager-2/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/store-manager-2/static/css/main.36497136.chunk.css.map",
+    "static/js/2.78eab865.chunk.js.LICENSE.txt": "/store-manager-2/static/js/2.78eab865.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36bc1d49.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.78eab865.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.64a0abde.chunk.js"
+  ]
+}
